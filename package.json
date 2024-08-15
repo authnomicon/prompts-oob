@@ -1,6 +1,6 @@
 {
   "name": "@authnomicon/prompts-oob",
-  "version": "0.0.3",
+  "version": "0.0.0",
   "description": "Out-of-band prompt components for the Authnomicon project.",
   "keywords": [
     "prompts"

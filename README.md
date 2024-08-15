@@ -1,6 +1,6 @@
 # @authnomicon/prompts-oob
 
-Prompt components for the Authnomicon project.
+Out-of-band prompt components for the Authnomicon project.
 
 <div align="right">
   <sup>Developed by <a href="#authors">Jared Hanson</a>.</sub>
